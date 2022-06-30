@@ -1,16 +1,16 @@
 # bloc_sample_counterapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+a simple counter app using bloc.incremnt and decrement value by button press.
+<br>
+  - flutter_bloc: 8.0.1
+  - freezed_annotation: 1.1.0
+  - build_runner: 2.1.7
+  - freezed: 1.1.1
+  <br>
+  
+For adding packages use [Pub.dev](https://pub.dev/packages)
+  
+  
+## UI
+<img align="left" src="Screenshot_1656572191.png" width=250>
+<img align="left" src="Screenshot_1656572201.png" width=250>
+<img align="left" src="Screenshot_1656572217.png" width=250>
